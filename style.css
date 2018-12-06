@@ -1,0 +1,21 @@
+/* flexProps {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: ...;
+    justify-content: ...;
+    align-items: ...;
+    align-content: ...;
+} */
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.top{
+    display: flex;
+    background-color: #4267b2;
+    border-bottom: 1px solid #29487d;
+    color: #fff;
+    height: 42px;
+}
